@@ -12,4 +12,4 @@ for i in range(N):
     lowest = pessoas[i]
     lowest_pos = i
     
-print(lowest_pos + 1)
+print(lowest_pos + 1) 
