@@ -1,2 +1,2 @@
 # dio-dados
-Dados
+Repositório focado em códigos desenvolvidos em Bootcamps sobre Dados.
