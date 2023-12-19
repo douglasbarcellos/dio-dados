@@ -6,3 +6,4 @@ for number in range(6):
       counter = counter + 1 
       
 print("{} valores positivos".format(counter))
+
